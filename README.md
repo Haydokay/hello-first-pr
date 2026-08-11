@@ -1,6 +1,6 @@
 # Hello First PR
 
-This is a small practice repo for shiping my first pull request with Claude Code.
+This is a small practice repo for shipping my first pull request with Claude Code.
 
 ## What is this?
 
